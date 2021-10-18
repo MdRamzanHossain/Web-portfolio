@@ -1,37 +1,24 @@
 body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0px;
+    font-family: 'Ephesis', cursive;
 }
 h1{
     font-size: 50px;
 }
-.highlight{
-    color: darkorange;
+.blue-highlight{
+    color: deepskyblue;
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
 }
 .half-width{
     width: 40%;
-    float:left;
-    margin-left: 4%;
+    margin-left: 5%;
     padding-left: 2%;
+    float: left;
 }
 .half-width img{
     width: 100%;
-}
-.top-banner{
-    background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;
-}
-section{
-    height: 500px;
-}
-.link-button{
-    text-decoration: none;
-    background-image: linear-gradient(45deg, salmon, tomato);
-    padding: 10px 30px;
-    border-radius: 10px;
-    color: white;
-    font-weight: 700;
-    margin: 40%;
-
-
 }
